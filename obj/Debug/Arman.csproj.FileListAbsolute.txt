@@ -1,0 +1,42 @@
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\csc.exe
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\System.Collections.Immutable.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\vbc.exe
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\VBCSCompiler.exe
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\roslyn\VBCSCompiler.exe.config
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\Arman.dll.config
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\Arman.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\Arman.pdb
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\obj\Debug\Arman.csprojResolveAssemblyReference.cache
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\obj\Debug\Arman.dll
+c:\users\saeedeh\documents\visual studio 2015\Projects\Arman\Arman\obj\Debug\Arman.pdb
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\csc.exe
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\System.Collections.Immutable.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\System.Reflection.Metadata.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\vbc.exe
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\VBCSCompiler.exe
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\roslyn\VBCSCompiler.exe.config
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\Arman.dll.config
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\Arman.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\Arman.pdb
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\obj\Debug\Arman.csproj.AssemblyReference.cache
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\obj\Debug\Arman.csproj.CoreCompileInputs.cache
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\obj\Debug\Arman.csproj.CopyComplete
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\obj\Debug\Arman.dll
+I:\my_projects\ProjectsVisual2015\Arman-en\Arman\obj\Debug\Arman.pdb
